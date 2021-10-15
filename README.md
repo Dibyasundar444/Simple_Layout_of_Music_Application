@@ -2,6 +2,8 @@
 
 **This is a Simple Layout of a music application created using React-Native**
 
+*Beginners are mostly WELCOME*
+
 *Steps to start the project:*
 
 1. clone the repo 
