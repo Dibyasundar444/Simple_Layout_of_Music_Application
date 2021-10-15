@@ -1,6 +1,6 @@
 # Simple_Layout_of_Music_Application
 
-**This is a Simple Layout of a music application created using React-Native**
+**This is a Simple Layout of a music application with bottomTab and Stack Navigation created using React-Native**
 
 *Beginners are mostly WELCOME*
 
