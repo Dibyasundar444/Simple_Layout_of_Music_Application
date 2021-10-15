@@ -18,7 +18,7 @@
 
 
 
-# ScreenShot
+# ScreenShots
 
 
 
