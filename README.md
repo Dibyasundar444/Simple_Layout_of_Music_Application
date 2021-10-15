@@ -22,4 +22,4 @@
 
 
 
-<img src = "src/assets/images/Screenshot.jpg" height="500" width="300" >
+<pre>    <img src = "src/assets/images/screenshot1.jpg" height="500" width="300" >                 <img src = "src/assets/images/screenshot2.jpg" height="500" width="300" > <pre>
